@@ -1,0 +1,32 @@
+.footer1{
+    width: 100%;
+    height: 300px;
+    border: 1px solid black;
+    /* margin:  auto; */
+    background-color: #f2f2f2;
+}
+.footer2{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+
+    
+    
+
+}
+
+.footer2>button{
+    width: 200;
+    height: 50px;
+    font-size: 19px;
+    font-weight: 800;
+    color: #6d869f;
+    border: none;
+    padding: 1%;
+    
+    
+}
+.float{
+    float: left;
+    margin-left: 100px;
+}

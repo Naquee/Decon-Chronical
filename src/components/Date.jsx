@@ -37,7 +37,7 @@ const Dates = () => {
 
   var hours = ISTTime.getHours() % 12 || 12;
   var minutes = ISTTime.getMinutes();
-  var AMPM = hours < 12 || hours == 24 ? "PM" : "AM";
+  var AMPM = hours > 12 || hours === 24 ? "PM" : "AM";
 
   return (
     <div style={{ margin: "auto" }}>
