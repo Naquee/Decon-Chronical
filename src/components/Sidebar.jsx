@@ -16,13 +16,15 @@ function Sidebar() {
 
   
   return (
-    <>
+    
       <IconContext.Provider value={{ color: '#fff' }}>
         <div className='navbar'>
+        <div style={{display:"flex",gap:"10px",paddingLeft:"80px"}}>
           <Link to='#' className='menu-bars'>
             <FaIcons.FaBars onClick={showSidebar} /> 
           </Link>
-          <div>
+         
+          <h6 className='top-heading'>e-Paper | Sunday Chronicle</h6>
             <a className='sticker-img' href="https://www.facebook.com/deccannews/"> <AiIcons.AiFillFacebook className='stickers' /></a>
             <a className='sticker-img'  href="https://twitter.com/DeccanChronicle/">  <AiIcons.AiFillTwitterSquare className='stickers' /></a>
             <a className='sticker-img' href="https://www.instagram.com/deccanchronicle_official/">  <AiIcons.AiOutlineInstagram  className='stickers'/></a>
@@ -30,8 +32,10 @@ function Sidebar() {
            
            
           </div>
-          <h4 className='top-heading'>e-Paper | Sunday Chronicle</h4>
-          <h4 className='top-heading'>Auto Refresh | Corporate Insolvency Resolution Process</h4>
+          
+         <div className='hello'> 
+         <input  type="checkbox" />
+         <h6 className='top-heading'>Auto Refresh | Corporate Insolvency Resolution Process</h6></div>
           
         </div>
         <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
@@ -95,7 +99,7 @@ function Sidebar() {
           </ul>
         </nav>
       </IconContext.Provider>
-    </>
+     
   );
 }
 

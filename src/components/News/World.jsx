@@ -3,6 +3,7 @@
 // https://newsapi.org/v2/everything?domains=wsj.com&apiKey=6f43be9f49cf4702b914421834ff3c3e
 
 import React,{useState, useEffect} from 'react'
+import Sidebar from '../Sidebar';
 
 const World = () => {
   const [user,setUser]=useState([]);
@@ -28,6 +29,7 @@ const World = () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 

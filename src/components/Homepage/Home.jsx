@@ -4,10 +4,14 @@ import Column from './Column';
 import Popular from './Popular';
 import TopNews from './TopNews'
 import Trending from './Trending';
+import Navbar from '../Navbar';
+import Footer from '../Footer';
 
 const Home = () => {
     return (
         <div>
+        {/* <Navbar/> */}
+        <div style={{width:"80%", height:"100px"}}/>
             <div className={styles.container} >
                 <div className={styles.left}>
                     <Trending />
@@ -285,7 +289,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            
+            {/* <Footer/> */}
         </div>
     )
 };

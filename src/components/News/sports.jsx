@@ -1,6 +1,9 @@
 // https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=6f43be9f49cf4702b914421834ff3c3e
 
 import React,{useState, useEffect} from 'react'
+import Footer from '../Footer';
+
+import Sidebar from '../Sidebar';
 
 const Sports = () => {
   const [user,setUser]=useState([]);
@@ -26,6 +29,7 @@ const Sports = () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 
@@ -61,7 +65,7 @@ const Sports = () => {
       </div>
       </div>
   
-    
+    <Footer/>
     
     </>
   );

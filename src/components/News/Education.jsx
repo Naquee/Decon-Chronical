@@ -1,8 +1,9 @@
 
 
-// https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=6f43be9f49cf4702b914421834ff3c3e
-
 import React,{useState, useEffect} from 'react'
+import Footer from '../Footer';
+import Sidebar from '../Sidebar';
+
 
 const Education= () => {
   const [user,setUser]=useState([]);
@@ -28,6 +29,7 @@ const Education= () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 
@@ -62,6 +64,7 @@ const Education= () => {
 
       </div>
       </div>
+      <Footer/>
   
     
     

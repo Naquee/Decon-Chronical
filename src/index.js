@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes,Route } from 'react-router-dom';
 // import { ChakraProvider as Router, Routes,Route} from "@chakra-ui/react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './components/News/Home';
+import Home from './components/Homepage/Home'
 import Nation from './components/News/Nation';
 import South from './components/News/South';
 import World from './components/News/World';

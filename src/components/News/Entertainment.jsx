@@ -3,6 +3,8 @@
 
 
 import React,{useState, useEffect} from 'react'
+import Footer from '../Footer';
+import Sidebar from '../Sidebar';
 
 const Entertainment = () => {
   const [user,setUser]=useState([]);
@@ -28,6 +30,7 @@ const Entertainment = () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 
@@ -64,7 +67,7 @@ const Entertainment = () => {
       </div>
   
     
-    
+    <Footer/>
     </>
   );
 }

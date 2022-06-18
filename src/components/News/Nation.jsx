@@ -1,4 +1,7 @@
 import React,{useState, useEffect} from 'react'
+import Footer from '../Footer';
+
+import Sidebar from '../Sidebar';
 
 const Nation = () => {
   const [user,setUser]=useState([]);
@@ -24,6 +27,7 @@ const Nation = () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 
@@ -59,7 +63,7 @@ const Nation = () => {
       </div>
       </div>
   
-    
+     <Footer/>
     
     </>
   );

@@ -1,4 +1,6 @@
 import React,{useState, useEffect} from 'react'
+import Footer from '../Footer';
+import Sidebar from '../Sidebar';
 
 const South = () => {
   const [user,setUser]=useState([]);
@@ -24,6 +26,7 @@ const South = () => {
 
   return (
     <>
+    <Sidebar/>
     
     <div className='container my-3'>
 
@@ -60,7 +63,7 @@ const South = () => {
       </div>
   
     
-    
+    <Footer/>
     </>
   );
 }

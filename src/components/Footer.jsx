@@ -1,4 +1,4 @@
-import { border, Button } from "@chakra-ui/react";
+import { border, Button, Center } from "@chakra-ui/react";
 import { borderRight } from "@mui/system";
 import React from "react";
 import { FaSistrix } from "react-icons/fa";
@@ -8,21 +8,22 @@ const Footer = () => {
   return (
     <div className="footer1">
 
-    <div style={{marginTop:"50px"}}>
+    <div style={{marginTop:"50px",marginLeft:"250px"}}>
       <input 
       placeholder="Searched by Google"
       style={{
-      width: "700px",
+      width: "500px",
       border: "1px solid #b6dcfc",
-      height: "50px",
+      height: "35px",
       marginTop: "20px",
       margin: "auto",
       type: "text",
+     
     }}
 
       />
       <button style={{backgroundColor:"#cecece",marginLeft:"30px"}}>  <span>
-      <FaSistrix style={{ colorScheme: "white",height:"40px",width:"100px",color:"white" }} />
+      <FaSistrix style={{ colorScheme: "white",height:"30px",width:"80px",color:"white" }} />
     </span></button>
     </div>
 
@@ -39,7 +40,7 @@ const Footer = () => {
     <button>CAREERS</button>
     <button>E-PAPER</button>
     <button>PRIVACY POLICY</button>
-    <button>POLICE</button>
+    <Center style={{fontSize:"12px"}}><button style={{border:"none"}}>POLICY</button></Center>
 
     </div>
    <div className="float">

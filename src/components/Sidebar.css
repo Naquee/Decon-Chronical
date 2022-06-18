@@ -1,9 +1,19 @@
+.position{
+  position: fixed;
+ background-color: white;
+}
+
+
 .navbar {
     background-color:rgb(34, 32, 32);
-    height: 40px;
+    height: 55px;
+    width: 100%;
     display: flex;
-    justify-content: space-around;
+    gap: 100px;
     align-items: center;
+    /* border: 1px solid red; */
+    margin: auto;
+    position: fixed;
   
    
   }
@@ -16,14 +26,14 @@
     display: flex;
     justify-content: space-between;
     
-    font-size: 2rem;
+    font-size: 1rem;
     background: none;
     scroll-behavior: smooth;
   }
   
   .nav-menu {
     background-color:rgb(208, 224, 226);
-    width: 315px;
+    /* width: 315px; */
     
     height: 100px;
     display: flex;
@@ -55,7 +65,7 @@
     text-decoration: none;
     /* background-color: red; */
     color: rgb(19, 18, 18);
-    font-size: 18px;
+    font-size: 15px;
     width: 95%;
     height: 100%;
     display: flex;
@@ -83,7 +93,7 @@
   
   
   .sidebar-img {
-    width: 150px;
+    width: 100px;
   }
   
   .sidebar-arrow {
@@ -108,4 +118,19 @@
   height:650px;
   overflow:scroll;
   overflow-x:hidden;
+}
+
+.hello{
+  margin-left: -300px;
+  /* border: 1px solid silver; */
+  padding-right: 50px;
+  /* font-size:16px ; */
+  display: flex;
+}
+.hello>input{
+  height: 15px;
+  width: 15px;
+  margin-top: 3px;
+  background-color: blue;
+
 }
