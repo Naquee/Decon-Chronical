@@ -1,0 +1,271 @@
+.container {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    column-gap: 20px;
+    margin: auto;
+}
+
+
+.adv {
+    font-size: 12px;
+    color: gray;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.heading{
+    border-bottom: 3px solid red;
+}
+/* left */
+
+.leftDiv {
+    border: 1px solid rgb(208, 199, 199);
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.leftDiv img{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.leftInnerDiv2 {
+    padding: 10px;
+}
+
+/* center */
+
+.center {
+    border-right: 1px solid rgb(228, 221, 221);
+    margin-top: 45px;
+}
+
+.centerDiv {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border-bottom: 1px solid rgb(216, 208, 208);
+    padding: 10px;
+    line-height: 20px;
+}
+
+.centerDiv div {
+    width: 50%;
+}
+
+.centerDiv img {
+    width: 100%;
+    height: 100%;
+}
+
+/* right */
+
+.right {
+    background-color: rgb(248,248,248);
+    border: 1px solid rgb(240, 235, 235);
+}
+
+.rightDiv {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 10px;
+    align-items: center;
+    border-bottom: 1px solid rgb(216, 208, 208);
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.rightDiv img{
+    width: 120px;
+    height: 100%;
+}
+
+/* column */
+
+.column {
+    margin-top: 30px;
+}
+
+.columnDiv {
+    padding: 10px;
+    line-height: 20px;
+    border-bottom: 1px solid rgb(216, 208, 208);
+}
+
+.columnInnerDiv1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    align-items: center;
+}
+
+.columnInnerDiv1 img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+
+.auther {
+    font-size: 12px;
+    color: gray;
+}
+
+
+/* cartoon */
+
+.cartoon {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    border: 1px solid rgb(184, 179, 179);
+    padding: 10px;
+}
+
+.cartoon>div img {
+    height: 300px
+}
+
+.adv p {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+
+/* south */
+
+.south {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid rgb(184, 179, 179);
+    padding: 20px;
+}
+
+.southDiv {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.southDiv div{
+    width: 22%;
+}
+
+.southDiv img {
+    width: 100%;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.southHead {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* entertainment */
+
+.entertainment {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid rgb(184, 179, 179);
+    padding: 20px;
+    background-color: rgb(248,248,248);
+}
+
+.entertainmentDiv {
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+
+.entertainmentDiv img {
+    width: 100%;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.entertainmentBottom {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.entertainmentBottomDiv {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-weight: bold;
+}
+
+.entertainmentBottom img {
+    width: 100px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+} 
+
+/* sports */
+
+.sports {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid rgb(184, 179, 179);
+    padding: 20px;
+}
+
+.sportsDiv {
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.sportsDiv div {
+    width: 33%;
+}
+
+.sportsDiv img {
+    width: 100%;
+    height: 70%;
+    margin-bottom: 10px;
+}
+
+/* lifestyle */
+
+.lifestyle {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid rgb(184, 179, 179);
+    padding: 20px;
+}
+
+.lifestyleDiv {
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.lifestyleDiv div {
+    width: 33%;
+}
+
+.lifestyleDiv img {
+    width: 100%;
+    height: 70%;
+    margin-bottom: 10px;
+}

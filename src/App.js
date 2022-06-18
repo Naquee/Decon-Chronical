@@ -7,10 +7,9 @@ import './App.css';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 
-import Top from "./components/Top";
-
 
 import Footer from "./components/Footer";
+import Home from "./components/Homepage/Home";
  
 
 function App() {
@@ -20,7 +19,7 @@ function App() {
       <Navbar />   
       
       <div style={{width:"80%", height:"200px"}}/>
-      <Top/>  
+      <Home/>
       <Footer/>
 
     </div>

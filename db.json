@@ -1,0 +1,236 @@
+{
+    "topNews": [
+        {
+            "id": 1,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616224620.jpeg",
+            "title": "AP to provide tabs to 4.7 lakh students of Class VIII with Rs 500 crore",
+            "discription": ""
+        },
+
+        {
+            "id": 2,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2j84f5i8n130tv9s5nb5r8u394-20200622200902.jpeg",
+            "title": "Bajrang Dal activist files complaint against Sai Pallavi",
+            "discription": ""
+        },
+
+        {
+            "id": 3,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-okb4hm6shnhc93fpbg7ovqvqv0-20220219133451.jpeg",
+            "title": "SC on UP demolitions: Authorities should strictly follow due process under law",
+            "discription": ""
+        },
+
+        {
+            "id": 4,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-aibpmmsb91h5qf0dek976tkii7-20220507073919.jpeg",
+            "title": "Telangana: Class 10 exam results soon, focus shifts to junior college admissions",
+            "discription": ""
+        },
+
+        {
+            "id": 5,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5g7vgledtsadhkq80f0f9fchu5-20220616113322.jpeg",
+            "title": "Protests against 'Agnipath' turn violent in Bihar; House of Deputy CM attacked",
+            "discription": ""
+        },
+
+        {
+            "id": 6,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4ojkq315pn58gvdfgoe4k91go1-20191130150200.jpeg",
+            "title": "Special numbers for vehicles to become costly in AP",
+            "discription": ""
+        },
+
+        {
+            "id": 7,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220617004036.jpeg",
+            "title": "500-year-old idol of Chamundi Devi identified in Jangaon",
+            "discription": ""
+        },
+
+        {
+            "id": 8,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616235553.jpeg",
+            "title": "AP introduces betterment chance in SSC exams",
+            "discription": ""
+        },
+
+        {
+            "id": 9,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-pvmo3i3eu4qq7r43oc5ap52to3-20170517200846.jpeg",
+            "title": "Hindi-only essay competition of Railways causes disquiet among other language users",
+            "discription": ""
+        },
+
+        {
+            "id": 10,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-anj96g0kaff9bivub4fmhn6fl0-20190908034849.jpeg",
+            "title": "Cyber fraud, cloned fingerprints: 7 arrested for fraudulent withdrawal of Rs 14L",
+            "discription": ""
+        },
+
+        {
+            "id": 11,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7rd2dmn63865hv7c6iqoo5fqm6-20190722023528.jpeg",
+            "title": "Mahankali Temple getting set for Bonalu festival",
+            "discription": ""
+        },
+
+        {
+            "id": 12,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbf0831fd3kmdljimmpqk5n7g3-20220616230100.jpeg",
+            "title": "IIIT-Basar cordoned off by cops as student agitation enters Day 3",
+            "discription": ""
+        },
+
+        {
+            "id": 13,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220617002540.jpeg",
+            "title": "Former KMC chief, two assistant officials face action over salary irregularity",
+            "discription": ""
+        },
+
+        {
+            "id": 14,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4bv1bmt0eph8vs4amei0uqtgp4-20220524205644.jpeg",
+            "title": "Congress, TRS in cahoots, claim BJP leaders",
+            "discription": ""
+        }
+    ],
+
+
+
+    "popular": [
+        {
+            "id": 1,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0k9bpt67qg7uuq8cvcj5krvto0-20220613090900.jpeg",
+            "title": "Govt schools across TS in dire straits, poor infra hampering quality education",
+            "discription": ""
+        },
+
+        {
+            "id": 2,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-b5nq5e0ku3g1nctek2tkqtah67-20220601160558.jpeg",
+            "title": "World's largest cricket jersey was made within nine days",
+            "discription": ""
+        },
+
+        {
+            "id": 3,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-efb18qerodo9jp7egg2v41otq4-20210607215443.Medi.jpeg",
+            "title": "Viral fever with gastro, dengue cases increase in Hyderabad",
+            "discription": ""
+        },
+
+        {
+            "id": 4,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-affitcqkm355isuv1pg8jsobg2-20220530033206.Medi.jpeg",
+            "title": "AP man donates his retirement funds for SSY scheme, gets PM Modi's pat",
+            "discription": ""
+        },
+
+        {
+            "id": 5,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gh6knkudub2ksq1v7mg76isbi6-20170710011908.Medi.jpeg",
+            "title": "Low blow for alcohol lovers as liquor prices go higher in Telangana",
+            "discription": ""
+        },
+
+        {
+            "id": 6,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0fr7ofu4cef9a2dbis2tuej3p1-20161209024602.Medi.jpeg",
+            "title": "Nation's envy: TS legislators are highest paid in the country",
+            "discription": ""
+        },
+
+        {
+            "id": 7,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jo4gv47qlta9dm26aflc6le3i4-20180816125314.jpeg",
+            "title": "Experts for study on bee population",
+            "discription": ""
+        },
+
+        {
+            "id": 8,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tjbmaee6vvttimvhi4drslcvs0-20220503005019.Medi.jpeg",
+            "title": "Report: India might turn zoonotic disease hotspot",
+            "discription": ""
+        },
+
+        {
+            "id": 9,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-f0hibq2oqnngsfh8avfva1ips6-20220111215037.Medi.jpeg",
+            "title": "What do we know about 'stealth omicron' so far?",
+            "discription": ""
+        }
+    ],
+
+
+    "column": [
+        {
+            "id": 1,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/17c705de63140cfda9ba2eb62824e82e9265e0cf-tc-img-columnists.jpg",
+            "title": "The Prophet stir: If communalism hurtles at velocity, where’ll it crash?",
+            "discription": "Ignorance — that perennial source of communalism — was in operation again: Nupur Sharma and Naveen Jindal clearly didn’t know the red line of decency that shouldn’t be crossed while addressing anyone as revered as the Prophet.",
+            "auther": "SAEED NAQVI"
+        },
+
+        {
+            "id": 1,
+            "image": "https://dc-cdn.s3-ap-southeast-1.amazonaws.com/0d0ab4a35b3549ca57a98a70b89b136fd1c30cb0-tc-img-columnists.jpg",
+            "title": "Abhijit Bhattacharyya | Arms and the West: Global effect of the war in Europe",
+            "discription": "The Nupur Sharma affair stinks, and the handling of the matter by the BJP and the Narendra Modi government is less than edifying",
+            "auther": "Abhijit Bhattacharyya"
+        },
+
+        {
+            "id": 1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQK4ZHANGfFVSYNl0XZFBHFFM9Mrj6yssEOQ&usqp=CAU",
+            "title": "Chandrakant Lahariya | Can ‘monkeypox’ disease develop into a pandemic?",
+            "discription": "Starting in the mid-1960s, intensive search and case identification was one of the eradication strategies for smallpox. Following those efforts, many countries had successfully brought down smallpox cases to zero.",
+            "auther": "Chandrakant Lahariya"
+        }
+    ],
+
+
+    "trending": [
+        {
+            "id": 1,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616014149.jpeg",
+            "title": "Opposition scrambles to field joint Prez candidate",
+            "discription": "Samajwadi Party President Akhilesh Yadav, PDP Chief Mehbooba Mufti, West Bengal Chief Minister and TMC Chief Mamata Banerjee, NCP Chief Sharad Pawar"
+        },
+
+        {
+            "id": 2,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616221350.jpeg",
+            "title": "Congress stir in Hyderabad turns violent",
+            "discription": "Congress activists protesting the Enforcement Directorate case on party leader Rahul Gandhi, on Thursday set fire to two-wheelers and damaged window panes of TSRTC buses"
+        },
+
+        {
+            "id": 3,
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220615234652.jpeg",
+            "title": "KCR to warn 35 party MLAs faring badly in surveys for six months",
+            "discription": "TRS president and Chief Minister K. Chandrashekar Rao would issue a stern warning during the state executive meeting next week to about 35 party MLAs who continue to do poorly in the monthly surveys."
+        }
+    ],
+
+    "south": [
+        {
+            "image": "",
+            "title": ""
+        },
+
+        {
+            "image": "",
+            "title": ""
+        },
+
+        {
+            "image": "",
+            "title": ""
+        }
+    ]
+}
