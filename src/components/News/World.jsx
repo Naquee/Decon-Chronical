@@ -17,33 +17,44 @@ const World = () => {
     .then((data)=>{
       const gagan=data.articles
       // console.log(gagan)
-      setUser(gagan)
+      setUser( gagan )
 
     })
 
   }
   useEffect(()=>{
+
     fetchData();
+
 
   },[])
 
+
   return (
+
     <>
     <Sidebar/>
     
     <div className='container my-3'>
 
 
+
     </div>
+
     <div className='container'>
+
     <div className='row'>
+
 
    
 
     
        {
+
         user.map((value) => {
+
           return (
+            
             <div className='col-3'>
 
         
@@ -54,6 +65,8 @@ const World = () => {
                  <h5 class="card-title">{value.title}</h5>
                
                </div>
+
+
     </div>
     
        </div>
