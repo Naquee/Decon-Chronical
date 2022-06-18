@@ -216,21 +216,198 @@
             "discription": "TRS president and Chief Minister K. Chandrashekar Rao would issue a stern warning during the state executive meeting next week to about 35 party MLAs who continue to do poorly in the monthly surveys."
         }
     ],
-
-    "south": [
+    "highlite":[
         {
-            "image": "",
-            "title": ""
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-r7s8taq5hp0fm1upu432k0g040-20170816083125.jpeg",
+            "heading":"Youngsters sleepless in Hyderabad",
+            "description":"Snacking late, watching movies cause mental health disorders"
         },
-
         {
-            "image": "",
-            "title": ""
-        },
-
-        {
-            "image": "",
-            "title": ""
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-q23c7r1vfkgm1plamt1q2pro80-20220211231930.jpeg",
+            "heading":"AP to implement 25 per cent quota for poor students in entry-level classes",
+            "description":"Only 17 states are implementing the norm. Chief minister Jagan Reddy on Tuesday called for steps to implement the same in AP"
         }
+
+        
+    ],
+    "top-news":[
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0k9bpt67qg7uuq8cvcj5krvto0-20220613090900.Medi.jpeg",
+            "heading":"Govt schools across TS in dire straits, poor infra hampering quality education"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qpo6jc16mb3inb5ieefq2rdn24-20220615105831.jpeg",
+            "heading":"Counting of votes underway for Karnataka MLC polls"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u0dgf7119aqkh85ur18ss9mjv3-20220608071649.jpeg",
+            "heading":"PM Modi to address public meeting in Hyderabad on July 3"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-arl7d0smrqvhqkm1f7thq63243-20220211233330.Medi.jpeg",
+            "heading":"Presidential election: TRS to stay off Mamata meet"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qij0dv646q17d1to9jsurtcv71-20220505070448.Medi.jpeg",
+            "heading":"IMD forecasts heavy rains as monsoon sets over Telangana"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616004622.jpeg",
+            "heading":"Petroleum traders ask state to resolve rationing of fuel in AP"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0hehs59te2sgl4m2p31ahko2e0-20200718130816.Medi.jpeg",
+            "heading":"Counting of votes underway for Karnataka MLC polls"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-894re1v04r1ga2jhdn4i1gq553-20181206012827.Medi.jpeg",
+            "heading":"TD cadres mulling use of NOTA to prove party strength in Atmakur"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qpo6jc16mb3inb5ieefq2rdn24-20220615102843.Medi.jpeg",
+            "heading":"Central government ready to sanction seaweed parks to AP: Fisheries MoS"
+        }
+        
+    ],
+
+
+    
+   "pop": [
+   {
+   "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4v24huvehu1ggor0uk567vnju0-20210922142952.jpeg",
+   "des":"Gradual rise in COVID-19 cases in Kerala; fresh infections cross 3,000 mark"
+   },
+   {
+    "image":"https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-onn7pupo9jl9ojidnq6mi2va13-20160322070816.jpeg",
+    "des":"Amaravati road works hit as farmers argue on land release"
+
+   },
+   {
+    "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-m47ddoj1dr832klc8jv53695v2-20200212055722.jpeg",
+    "des":"Jubilee Hills gangrape: Potency test on accused positive"
+
+   },
+   {
+    "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gh6knkudub2ksq1v7mg76isbi6-20170710011908.jpeg",
+    "des":"Low blow for alcohol lovers as liquor prices go higher in Telangana"
+
+   },
+   {
+    "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jo4gv47qlta9dm26aflc6le3i4-20180816125314.jpeg",
+    "des":"Experts for study on bee population"
+
+   },
+   {
+    "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tjbmaee6vvttimvhi4drslcvs0-20220503005019.jpeg",
+    "des":"Report: India might turn zoonotic disease hotspot"
+
+   },
+   {
+    "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-f0hibq2oqnngsfh8avfva1ips6-20220111215037.jpeg",
+    "des":"What do we know about 'stealth omicron' so far?"
+
+   }
+
+    ],
+       "telanaga": [
+       {
+          "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2b96cuiee0ban64vhd71cptqd5-20200906161407.jpeg",
+          "des":"25-member ganja syndicate involved in interstate smuggling",
+          "title":"TS clarifies on AIS postings"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220617002540.jpeg",
+            "des":"Former KMC chief, two assistant officials face action over salary irregularity",
+            "title":"Congress, TRS in cahoots, claim BJP leaders"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220617004036.jpeg",
+            "des":"500-year-old idol of Chamundi Devi identified in Jangaon",            
+            "title":"Mahankali Temple getting set for Bonalu festival"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220617004036.jpeg",
+            "des":"500-year-old idol of Chamundi Devi identified in Jangaon",
+            "title":"Mahankali Temple getting set for Bonalu festival"
+          }
+
+    ],
+    "Ap":[
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-btj9vhkrqteinrp5aqg90m4nm4-20200324225213.jpeg",
+            "des":"Covid-19 lockdown harmed SSC students’ prospects"
+           
+        },
+        {
+            "image":"https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-go7n2aqqq2ju81q8pjf5358e44-20160704005529.jpeg",
+            "des":"4-year-old girl child dies as father’s occult ritual goes wrong"
+            
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvvjg605k774cc039o1ho82t5-20220616235553.jpeg",
+            "des":"AP introduces betterment chance in SSC exams"
+            
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7v51f0tcgb9j2agi4ej9kagsk3-20190331021904.jpeg",
+            "des":"Online education, teaching pattern impact Class X pass rate"
+            
+        }
+    ],
+    "Tamil":[
+        {
+          "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-npe15lc9tv8u2mcttn4tp3ak43-20180213063351.jpeg",
+           "des":"Police book man, parents for child marriage in Chennai"
+        },
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ehn3cgkc6ju8tj48fo0leqqlc6-20220530131715.jpeg",
+             "des":"Meera, first Badaga woman to become naval officer"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s32g61rbgml3500rdcnh2kjkb6-20211117111415.jpeg",
+             "des":"Tax cut on fuel only 'partial', don't expect states to slash rates: Tamil Nadu FM"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s32g61rbgml3500rdcnh2kjkb6-20211117111415.jpeg",
+             "des":"Tax cut on fuel only 'partial', don't expect states to slash rates: Tamil Nadu FM"
+          }
+    ],
+    "karnatak":[
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qpo6jc16mb3inb5ieefq2rdn24-20220615105831.jpeg",
+             "des":"Counting of votes underway for Karnataka MLC polls"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-j5mcrus0a32ek6afjl3e8pkrl0-20220614112956.jpeg",
+             "des":"Prophet remark row: Mangaluru police Commissioner holds talks with Muslim leaders"
+            
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-okb4hm6shnhc93fpbg7ovqvqv0-20220219095628.jpeg",
+             "des":"Hizbul Mujahideen terrorist held in Bengaluru"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-dsjaek1g4r064v01t89ikpf5b7-20220603132539.jpeg",
+             "des":"7 charred to death in private bus mishap near Karnataka's Kalaburagi"
+          }
+
+    ],
+    "kerala":[
+        {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-j5mcrus0a32ek6afjl3e8pkrl0-20220614122505.jpeg",
+             "des":"CPI(M) MP writes to DGCA alleging assault on Kerala CM inside flight"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jgbpi0o0p2ld76muet9tu5gvc5-20220607115802.jpeg",
+             "des":"Kochi lagging in cleanliness, Kerala govt should take responsibility: Piyush Goyal"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-823bir7phfjqh19gf1b31467p2-20220601124218.jpeg",
+             "des":"The Kerala High Court on Tuesday granted Vijay an interim pre-arrest bail until the next hearing date - June 2"
+          },
+          {
+            "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-823bir7phfjqh19gf1b31467p2-20220601124218.jpeg",
+             "des":"The Kerala High Court on Tuesday granted Vijay an interim pre-arrest bail until the next hearing date - June 2"
+          }
     ]
 }

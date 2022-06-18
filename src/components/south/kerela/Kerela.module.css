@@ -1,0 +1,13 @@
+.k_outer{
+    border:1px solid blue
+}
+.k_second{
+    display: flex;
+    height: 360px;
+    
+}
+
+.k_fourth{
+    height: 150px;
+    width: 90%;
+}

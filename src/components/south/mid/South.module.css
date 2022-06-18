@@ -1,0 +1,33 @@
+/* style={{display:"flex",
+    flexDirection:"column",border:"1px solid brown",width:"35%" */
+    /* style={{width:"40%"}} */
+   
+   
+   
+   
+    .bigger{
+        border:1px solid gray ;
+        /* width:30px; */
+       
+    }
+
+
+    .zero_bigger{
+        height: 315px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 20px;
+       
+    }
+    .zero_inner{
+        height:310px ;
+        width: 100%;
+
+    }
+    .third_bigger{
+        display: flex;
+    }
+   .second_bigger{
+    height: 90px;
+    width: 90px;
+   }

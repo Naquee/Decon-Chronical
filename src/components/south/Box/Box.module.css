@@ -1,0 +1,29 @@
+.box_outer{
+    border:1px solid red 
+}
+.box_second{
+    display: flex;
+    height: 360px;
+    
+}
+
+.box_fourth{
+    height: 150px;
+    width: 90%;
+}
+/* //    {
+    //     "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-efb18qerodo9jp7egg2v41otq4-20210607215443.jpeg",
+    //     "des":"Viral fever with gastro, dengue cases increase in Hyderabad"
+    
+    //    },
+    //    {
+    //     "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0fr7ofu4cef9a2dbis2tuej3p1-20161209024602.jpeg",
+    //     "des":"Nation's envy: TS legislators are highest paid in the country"
+    
+    //    },
+    //    {
+    //     "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-aibpmmsb91h5qf0dek976tkii7-20220507073919.jpeg",
+    //     "des":"Telangana: Class 10 exam results soon, focus shifts to junior college admissions"
+    
+    //    } */
+
