@@ -8,6 +8,7 @@ import { Checkbox } from '@chakra-ui/react'
 import { Link } from "react-router-dom";
 import { FaFacebookF ,FaTwitter,FaInstagram,FaAppStore,FaHome,FaAngleDown} from "react-icons/fa";
 import Dates from './Date';
+import Sidebar from './Sidebar';
 
 // import {
 //   Menu,
@@ -34,7 +35,7 @@ import Dates from './Date';
 const Navbar = () => {
   return (
       <div className='upperTop'>
-  
+        <Sidebar />
            <div className='homelogo' >
          <Link to="/">  <img  className='you'
           src="https://www.deccanchronicle.com/images/DeccanChronicle_Logo.webp" /></Link>
